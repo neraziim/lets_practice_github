@@ -1,3 +1,5 @@
 console.log('hello world!');
 
-let sbtg = '메인브랜치에서 분탕을 좀 쳐보겠습니다~';
+let sbtg = '메인브랜치 수정하고 있습니다.';
+
+console.log(sbtg)
