@@ -1,4 +1,4 @@
-console.log('hello world! and bye);
+console.log('hello world! and bye, see you later');
 console.log('hello world!');
 console.log('fighting 6team');
 
